@@ -1,0 +1,4 @@
+## https://code.tutsplus.com/vi/tutorials/fake-rest-api-up-and-running-using-json-server--cms-27871
+
+$	npm install -g json-server
+$   npx json-server --watch -p 3001 db.json     //run
