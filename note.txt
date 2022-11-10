@@ -2,3 +2,4 @@
 
 $	npm install -g json-server
 $   npx json-server --watch -p 3001 db.json     //run
+$   npx json-server --watch db.json     //run
